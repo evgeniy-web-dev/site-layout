@@ -1,14 +1,5 @@
-## Проект "Форест Тревел"
+## Site-layout
 
-Сайт туристической компании. Учебный проект (PSD - макет).
+**Projects:**
 
-**Технологии:** HTML, CSS
-
-**Особенности:**
-
-- Блочная вёрстка (float - модель)
-- Pixel Perfect
-- Форма обратной связи с кастомизацией
-- Интеграция карты (Яндекс карта)
-
-[Демо онлайн](https://evgeniy-web-dev.github.io/site-layout/forest-travel/)
+- [forest-travel](https://evgeniy-web-dev.github.io/site-layout/forest-travel/)
